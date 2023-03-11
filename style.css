@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+}
+*,::before, ::after {
+    box-sizing: inherit;
+}
+.legend {
+    border: 2px solid teal;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin: 50px;
+    background-color: teal;
+
+}
+
+.label {
+    border: 2px solid teal;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin: 50px;
+    background-color: teal; 
+}
+.button {
+    border: 2px solid teal;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin: 50px;
+    background-color: teal;  
+}
+.paragraph {
+    border: 2px solid teal;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin: 50px;
+    background-color: teal; 
+    text-align: center;
+}
